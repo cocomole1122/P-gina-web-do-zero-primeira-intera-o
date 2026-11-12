@@ -2,7 +2,7 @@ header {
     background-color: #33658a;
     color: #FFFFFF;
     text-align: center;
-    max-width: 800px;
+    max-width: 80px;
     margin: 0 auto;
     padding: 16px;
 
@@ -10,7 +10,7 @@ header {
 main {
     background-color: #FFFFFF;
     color: #33658a;
-    max-width: 800px;
+    max-width: 80px;
     margin: 0 auto;
     padding: 16px;
 }
